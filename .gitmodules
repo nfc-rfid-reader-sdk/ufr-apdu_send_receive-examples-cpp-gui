@@ -1,3 +1,0 @@
-[submodule "WINDOWS/apdu_command/ufr-lib"]
-	path = WINDOWS/apdu_command/lib
-	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ufr-lib.git
